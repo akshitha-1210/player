@@ -43,7 +43,7 @@
     "rxjs": "~6.6.7",
     "tslib": "^2.3.0",
     "uuid": "^9.0.1",
-    "zone.js": "~0.15.0",
+    "zone.js": "~0.16.2",
     "ally.js": "1.4.1"
   },
   "devDependencies": {
